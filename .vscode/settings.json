@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "ledc"
+    ],
+    "files.associations": {
+        "*.conf": "apacheconf",
+        "*.json": "jsonc",
+        "*.log": "log",
+        "*.sample": "properties",
+        "history.txt": "powershell",
+        "nginx.conf": "nginx",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "string": "cpp",
+        "typeinfo": "cpp",
+        "tuple": "cpp"
+    }
+}
